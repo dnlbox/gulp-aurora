@@ -1,0 +1,37 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# osx noise
+.DS_Store
+profile
+*.DS_Store
+[Tt]humbs.db
+
+# OS or Editor folders
+.[Pp]roject
+.[Ss]ettings
+.[Tt]mproj
+nbproject
+*.sublime-workspace
+
+# git merge
+*.orig
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+
+# NPM packages folder.
+node_modules/
+
+# Gulp builds
+builds/
