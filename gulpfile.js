@@ -9,7 +9,7 @@ var jade    = require('gulp-jade');      // Jade for html best syntax and not to
 var sass    = require('gulp-sass');      // We need a preprocessing for css and SaSS is great - but we gonna use scss syntax
 var del     = require('del');            // Clean folders before build
 var plumber = require('gulp-plumber');   // Handle errors
-var gutil   = require('gulp-util');      // To beep on error and custom logs
+var gutil   = require('gulp-util');      // To do several minor operations
 var changed = require('gulp-changed');   // Only rebuild changed files
 var debug   = require('gulp-debug');     // It's good to see what files changed
 
