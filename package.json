@@ -1,13 +1,13 @@
 {
-  "name": "blog-mirangush",
-  "version": "0.0.0",
-  "description": "",
+  "name": "gulp-aurora",
+  "version": "0.0.1",
+  "description": "gulp boilerplate for most JS frameworks projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "BSD-2-Clause",
+  "author": "dnlbox",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "~3.8.10",
     "gulp-jade": "~0.11.0",
